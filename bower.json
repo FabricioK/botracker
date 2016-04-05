@@ -1,0 +1,27 @@
+{
+  "name": "botracker",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "FabricioK <fabriciodossa@hotmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.5.3",
+    "bootstrap": "~3.3.6",
+    "metisMenu": "~2.4.0",
+    "angular-ui-router": "~0.2.18",
+    "angular-file-upload": "~2.2.0",
+    "jquery": "~2.2.1",
+    "leaflet": "~0.7.7"
+  }
+}

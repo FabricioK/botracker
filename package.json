@@ -1,0 +1,33 @@
+{
+  "name": "botracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^0.7.7",
+     "bcrypt-nodejs": "latest",
+    "body-parser": "^1.14.1",
+    "bower": "^1.7.7",
+    "cookie-parser": "^1.4.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.11.3",
+    "gridfs-stream": "^1.1.1",
+    "moment": "^2.11.2",
+    "mongoose": "^4.1.7",
+    "multer": "^1.1.0",
+    "passport": "0.2.0",
+    "passport-local": "0.1.6",
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-forever-monitor": "0.0.2",
+    "gulp-uglify": "^1.4.1",
+    "del": "^2.2.0"
+  }
+}
